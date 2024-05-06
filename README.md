@@ -1,6 +1,6 @@
 # Simplified-Midterm-Project
 
-Project Presentation Link : 
+Project Presentation Link : https://youtu.be/kCbj4A-gjLs
 
 
 # Introduction :
